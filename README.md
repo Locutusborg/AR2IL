@@ -36,7 +36,7 @@ To get the path of the files, you can simply:
 1. Copy the path of the content image on the 1st line below.
 2. Copy the path of the style image on the 2nd line below.
 
-**Visualize the input**
+###Visualize the input
 
 **Step 4:** Using the load_img and imshow functions from the image_preprocess_functions.py (ip) file to display the content and style images.
 
