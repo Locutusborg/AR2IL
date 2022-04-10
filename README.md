@@ -40,6 +40,9 @@ To get the path of the files, you can simply:
 
 **Step 4:** Using the load_img and imshow functions from the image_preprocess_functions.py (ip) file to display the content and style images.
 
+In our case, our result is:
+
+
 **Step 5:** Creating the neural network model with only the desired layers. Choosing layers for the content and style images separately. Here we have used the intermediate layers of [VGG19](https://keras.io/api/applications/vgg/#vgg19-function).
 
 ## Define content and style representations
@@ -60,4 +63,6 @@ The `train_step` function defines each iteration of the program and the weights 
 **Step 9**: Now run a few steps to test. We test the neural network on a few steps first before proceeding for more steps as it is way quicker to get a result as compared to for more number of steps.
 
 **Step 10**: If your neural network is working above, perform a longer optimization by taking more number of steps.
+
+
 
