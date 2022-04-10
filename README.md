@@ -36,11 +36,13 @@ To get the path of the files, you can simply:
 1. Copy the path of the content image on the 1st line below.
 2. Copy the path of the style image on the 2nd line below.
 
-##Visualize the input
+#Visualize the input
 
 **Step 4:** Using the load_img and imshow functions from the image_preprocess_functions.py (ip) file to display the content and style images.
 
 In our case, our result is:
+
+
 ![Our_Style_Content_image](https://github.com/Locutusborg/AR2IL/blob/main/2D-to-2D%20Style%20Transfer/style_content_image.png?raw=true "Optional Title")
 
 
@@ -64,6 +66,8 @@ The `train_step` function defines each iteration of the program and the weights 
 **Step 9**: Now run a few steps to test. We test the neural network on a few steps first before proceeding for more steps as it is way quicker to get a result as compared to for more number of steps.
 
 We got the following as our result:
+
+
 ![Our_Style_Content_image](https://github.com/Locutusborg/AR2IL/blob/main/2D-to-2D%20Style%20Transfer/less_no_of_steps.png?raw=true "Optional Title")
 
 **Step 10**: If your neural network is working above, perform a longer optimization by taking more number of steps.
