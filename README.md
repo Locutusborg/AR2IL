@@ -41,6 +41,7 @@ To get the path of the files, you can simply:
 **Step 4:** Using the load_img and imshow functions from the image_preprocess_functions.py (ip) file to display the content and style images.
 
 In our case, our result is:
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 
 **Step 5:** Creating the neural network model with only the desired layers. Choosing layers for the content and style images separately. Here we have used the intermediate layers of [VGG19](https://keras.io/api/applications/vgg/#vgg19-function).
