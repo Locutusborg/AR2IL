@@ -22,6 +22,51 @@ Guide on how to navigate Google Colab - https://www.geeksforgeeks.org/how-to-use
 
 https://www.geeksforgeeks.org/how-to-use-chatgpt-to-write-code/
 
+## General overview of Artificial Intelligence for architecture
 
+[AI For Architects: How It Revolutionizes Design And Efficiency.](https://notrianglestudio.com/ai-for-architects/#:~:text=AI%20uses%20metrics%20and%20data,the%20project%20flow%20more%20efficient)
 
+[AI in Architecture: The Key to Enhancing Design Efficiency and Gaining a Competitive Edge [2024 GUIDE]](https://www.e-zigurat.com/en/blog/ai-in-architecture-guide/#:~:text=AI%20in%20architecture%20significantly%20betters,ensure%20sustained%20comfort%20for%20occupants)
+
+[AI in Architecture: 10 Use Cases, Examples & Technologies](https://www.itransition.com/ai/architecture)
+
+## General Overview of Computer Vision
+
+[What is Computer Vision? - Image recognition AI/ML Explained - AWS](https://aws.amazon.com/what-is/computer-vision/)
+
+[Complete RoadMap To Learn Computer Vision - Youtube](https://www.youtube.com/watch?v=jLcuVu5xdDo)
+
+## General overview of Deep Learning
+
+[Neural networks - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[Neural Networks Explained in 5 minutes](https://www.youtube.com/watch?v=jmmW0F0biz0&pp=ygUgbmV1cmFsIHJhZGlhbmNlIGZpZWxkcyBleHBsYWluZWQ%3D)
+
+## General overview of Generative Adversarial Networks
+
+[A Gentle Introduction to Generative Adversarial Networks (GANs) - MachineLearningMastery.com](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
+
+[What are GANs (Generative Adversarial Networks)?](https://www.youtube.com/watch?v=TpMIssRdhco&pp=ygUpZ2VuZXJhdGl2ZSBhZHZlcnNhcmlhbCBuZXR3b3JrcyBleHBsYWluZWQ%3D)
+
+[Generative Adversarial Networks (GANs) - Computerphile](https://www.youtube.com/watch?v=Sw9r8CL98N0&pp=ygUpZ2VuZXJhdGl2ZSBhZHZlcnNhcmlhbCBuZXR3b3JrcyBleHBsYWluZWQ%3D)
+
+[The Math Behind Generative Adversarial Networks Clearly Explained!](https://www.youtube.com/watch?v=Gib_kiXgnvA&pp=ygUpZ2VuZXJhdGl2ZSBhZHZlcnNhcmlhbCBuZXR3b3JrcyBleHBsYWluZWQ%3D)
+
+## General overview of Neural Radiance Fields
+
+[How Neural Radiance Fields (NeRF) and Instant Neural Graphics Primitives work | AI Summer](https://theaisummer.com/nerf/)
+
+[Deep Dive into NeRF (Neural Radiance Fields)](https://dtransposed.github.io/blog/2022/08/06/NeRF/#:~:text=NeRF%20is%20an%20example%20of,any%20voxel%20in%20the%20space)
+
+[NERFs (No, not that kind) - Computerphile](https://www.youtube.com/watch?v=wKsoGiENBHU&pp=ygUgbmV1cmFsIHJhZGlhbmNlIGZpZWxkcyBleHBsYWluZWQ%3D)
+
+## General overview of Gaussian Splatting
+
+[A Comprehensive Overview of Gaussian Splatting | by Kate Yurkova | Towards Data Science](https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362)
+
+[Understanding and Exploring 3D Gaussian Splatting: A Comprehensive Overview | by Loges Siva](https://logessiva.medium.com/understanding-and-exploring-3d-gaussian-splatting-a-comprehensive-overview-b4004f28ef1c)
+
+[3D Gaussian Splatting: A beginner friendly introduction and tutorial on how to train them](https://www.reshot.ai/3d-gaussian-splatting)
+
+[3D Gaussian Splatting! - Computerphile](https://www.youtube.com/watch?v=VkIJbpdTujE&pp=ygUcZ2F1c3NpYW4gc3BsYXR0aW5nIGV4cGxhaW5lZA%3D%3D)
 
