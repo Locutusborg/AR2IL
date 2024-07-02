@@ -1,4 +1,4 @@
-** Description ** - DeepDream is a computer vision program created by Google to enhance and modify images based on patterns learned by a convolutional neural network (CNN). The primary goal of DeepDream is to amplify features in an image that the network has learned, resulting in dream-like, surreal images. Here's a detailed technical explanation of how DeepDream works:
+**Description** - DeepDream is a computer vision program created by Google to enhance and modify images based on patterns learned by a convolutional neural network (CNN). The primary goal of DeepDream is to amplify features in an image that the network has learned, resulting in dream-like, surreal images. Here's a detailed technical explanation of how DeepDream works:
 
 1. Architecture Overview
 DeepDream leverages a pre-trained convolutional neural network (CNN), such as Inception, to process and modify images. The core concept involves:
