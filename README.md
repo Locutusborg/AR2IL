@@ -18,6 +18,12 @@ Hosted by Google, Colab offers a free, interactive environment where users can w
 
 Guide on how to navigate Google Colab - https://www.geeksforgeeks.org/how-to-use-google-colab/
 
+## Introduction to pip
+
+Pip is the default package installer for Python, allowing users to easily install and manage software packages written in Python. It connects to the Python Package Index (PyPI), a repository of software for the Python programming language. With pip, you can install packages from PyPI as well as other sources, upgrade or uninstall packages, and manage dependencies for your projects. The command-line interface is straightforward, typically involving commands like pip install package_name to install a package and pip list to see installed packages. Pip is essential for managing the libraries and frameworks needed for Python development.
+
+When using Google Colab for Python development, especially for tasks involving machine learning, data analysis, or other complex projects, you will frequently need to install various packages using pip.
+
 ## How to use LLMs like ChatGPT to assist you in coding
 
 https://www.geeksforgeeks.org/how-to-use-chatgpt-to-write-code/
