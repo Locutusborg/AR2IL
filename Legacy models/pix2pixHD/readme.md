@@ -53,8 +53,12 @@ The paper uses several loss functions to train the network:
     ```math
     L_{sem}(G) = E_{x,y}[ || S(G(x)) - S(y) ||_1 ]
     ```
+The total generator loss is a weighted sum of the adversarial loss, pixel-wise loss, and semantic loss:
 
-where \( \lambda_{L1} \) and \( \lambda_{sem} \) are hyperparameters controlling the importance of the pixel-wise and semantic losses, respectively.
+  ```math
+  L_G = L_{GAN}(G, D) + \lambda_{L1} \cdot L_{L1}(G) + \lambda_{sem} \cdot L_{sem}(G)
+  ```
+  where \( \lambda_{L1} \) and \( \lambda_{sem} \) are hyperparameters controlling the importance of the pixel-wise and semantic losses, respectively.
 
 ## 6. Training Process
 
@@ -83,10 +87,5 @@ The proposed approach has several applications, including:
 - **Image Super-Resolution**: Enhancing the resolution of images in a way that maintains or improves their perceptual quality.
 
 
-The total generator loss is a weighted sum of the adversarial loss, pixel-wise loss, and semantic loss:
-
-```math
-L_G = L_{GAN}(G, D) + \lambda_{L1} \cdot L_{L1}(G) + \lambda_{sem} \cdot L_{sem}(G)
-```
 
 [Colab Link](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_Pix2PixHD_(Optional).ipynb)
