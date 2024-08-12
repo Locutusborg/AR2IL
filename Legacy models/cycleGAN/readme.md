@@ -1,3 +1,7 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
 # CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
 CycleGAN is a type of generative adversarial network (GAN) that enables image-to-image translation without the need for paired examples. Unlike pix2pix, which requires paired images during training, CycleGAN can work with unpaired datasets. The main idea is to learn mappings between two domains \( X \) and \( Y \) such that the mapping is cycle-consistent. Below is a detailed technical explanation of how CycleGAN works:
