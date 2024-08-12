@@ -33,3 +33,6 @@ Artistic Image Modification: Creating surreal, dream-like images.
 Feature Visualization: Understanding what features a neural network has learned.
 Creative Applications: Generating unique and aesthetically interesting visuals for artistic projects.
 
+
+[Google Colab Link](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
+
