@@ -87,3 +87,6 @@ The total generator loss is a weighted sum of the adversarial loss, pixel-wise l
 
 ```math
 L_G = L_{GAN}(G, D) + \lambda_{L1} \cdot L_{L1}(G) + \lambda_{sem} \cdot L_{sem}(G)
+```
+
+[Colab Link](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_Pix2PixHD_(Optional).ipynb)
