@@ -21,7 +21,7 @@ $`\mathcal{L}_{\text{GAN}}(G, D_Y, X, Y) = \mathbb{E}_{y \sim p_{\text{data}}(y)
 Similarly, the adversarial loss for the generator \( F \) and discriminator \( D_X \) is:
 
 \[
-\mathcal{L}_{\text{GAN}}(F, D_X, Y, X) = \mathbb{E}_{x \sim p_{\text{data}}(x)}[\log D_X(x)] + \mathbb{E}_{y \sim p_{\text{data}}(y)}[\log(1 - D_X(F(y)))]
+$`\mathcal{L}_{\text{GAN}}(F, D_X, Y, X) = \mathbb{E}_{x \sim p_{\text{data}}(x)}[\log D_X(x)] + \mathbb{E}_{y \sim p_{\text{data}}(y)}[\log(1 - D_X(F(y)))]`$
 \]
 
 These losses encourage the generators to produce images that are indistinguishable from real images in the target domains.
@@ -31,7 +31,7 @@ These losses encourage the generators to produce images that are indistinguishab
 To ensure that the learned mappings are cycle-consistent, CycleGAN introduces the cycle-consistency loss. This loss enforces that translating an image from one domain to another and then back again should result in the original image:
 
 \[
-\mathcal{L}_{\text{cyc}}(G, F) = \mathbb{E}_{x \sim p_{\text{data}}(x)}[||F(G(x)) - x||_1] + \mathbb{E}_{y \sim p_{\text{data}}(y)}[||G(F(y)) - y||_1]
+$`\mathcal{L}_{\text{cyc}}(G, F) = \mathbb{E}_{x \sim p_{\text{data}}(x)}[||F(G(x)) - x||_1] + \mathbb{E}_{y \sim p_{\text{data}}(y)}[||G(F(y)) - y||_1]`$
 \]
 
 The cycle-consistency loss helps prevent the generators from producing arbitrary outputs and ensures that the translations are meaningful.
@@ -41,7 +41,7 @@ The cycle-consistency loss helps prevent the generators from producing arbitrary
 In some cases, it is beneficial to include an identity loss, which encourages the generators to preserve color composition between the input and output images. This is particularly useful in tasks like style transfer:
 
 \[
-\mathcal{L}_{\text{identity}}(G, F) = \mathbb{E}_{y \sim p_{\text{data}}(y)}[||G(y) - y||_1] + \mathbb{E}_{x \sim p_{\text{data}}(x)}[||F(x) - x||_1]
+$`\mathcal{L}_{\text{identity}}(G, F) = \mathbb{E}_{y \sim p_{\text{data}}(y)}[||G(y) - y||_1] + \mathbb{E}_{x \sim p_{\text{data}}(x)}[||F(x) - x||_1]`$
 \]
 
 ## Full Objective
@@ -49,10 +49,10 @@ In some cases, it is beneficial to include an identity loss, which encourages th
 The full objective function of CycleGAN combines the adversarial, cycle-consistency, and optional identity losses. The total objective is:
 
 \[
-\mathcal{L}(G, F, D_X, D_Y) = \mathcal{L}_{\text{GAN}}(G, D_Y, X, Y) + \mathcal{L}_{\text{GAN}}(F, D_X, Y, X) + \lambda \mathcal{L}_{\text{cyc}}(G, F) + \gamma \mathcal{L}_{\text{identity}}(G, F)
+$`\mathcal{L}(G, F, D_X, D_Y) = \mathcal{L}_{\text{GAN}}(G, D_Y, X, Y) + \mathcal{L}_{\text{GAN}}(F, D_X, Y, X) + \lambda \mathcal{L}_{\text{cyc}}(G, F) + \gamma \mathcal{L}_{\text{identity}}(G, F)`$
 \]
 
-Where \( \lambda \) and \( \gamma \) are hyperparameters that control the importance of the cycle-consistency and identity losses, respectively.
+Where \( $`\lambda`$ \) and \( $`\gamma`$ \) are hyperparameters that control the importance of the cycle-consistency and identity losses, respectively.
 
 ## Training Process
 
