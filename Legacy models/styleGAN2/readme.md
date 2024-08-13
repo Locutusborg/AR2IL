@@ -65,3 +65,5 @@ StyleGAN has been improved in various ways to enhance image quality:
   - **Portrait Generation:** StyleGAN is widely used to generate high-quality human portraits.
   - **Artistic Image Synthesis:** It can create images with various artistic styles by controlling the latent space.
   - **Data Augmentation:** StyleGAN-generated images are used to augment datasets for training other machine learning models.
+
+ [Colab Link](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/stylegan.ipynb)
