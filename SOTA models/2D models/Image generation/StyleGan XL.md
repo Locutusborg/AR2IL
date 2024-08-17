@@ -40,3 +40,4 @@ StyleGAN XL is particularly suited for applications requiring the generation of 
 
 Overall, StyleGAN XL represents a significant advancement in the generation of high-resolution images, pushing the boundaries of what is possible with GANs in terms of both quality and scalability.
 
+[Colab](https://colab.research.google.com/drive/1ZEnJE-EUnh-aCXJbu0kVhi8_Qdi2BV-S)
