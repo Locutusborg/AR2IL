@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/03b2c759-3848-4495-836c-e1750638edda)
+
 ### 1. Introduction
 **InstructPix2Pix: Learning to Follow Image Editing Instructions** is a framework that aims to perform image editing tasks based on natural language instructions. The model is trained to understand and apply specific changes to an image as requested by a user through textual input, making it highly interactive and versatile for various image editing applications. This approach leverages the power of large-scale image-text datasets and fine-tunes models to align visual modifications with the semantics of the instructions provided.
 
