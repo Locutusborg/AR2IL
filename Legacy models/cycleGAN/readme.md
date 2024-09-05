@@ -1,5 +1,8 @@
 # CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
+![image](https://github.com/user-attachments/assets/e4d94208-be90-4901-89cf-5a211da7f314)
+
+
 CycleGAN is a type of generative adversarial network (GAN) that enables image-to-image translation without the need for paired examples. Unlike pix2pix, which requires paired images during training, CycleGAN can work with unpaired datasets. The main idea is to learn mappings between two domains \( X \) and \( Y \) such that the mapping is cycle-consistent. Below is a detailed technical explanation of how CycleGAN works:
 
 ## Architecture Overview
@@ -75,3 +78,4 @@ CycleGAN has been influential in expanding the capabilities of image-to-image tr
 
 
 [Colab Link](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
+[Github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
