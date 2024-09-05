@@ -1,6 +1,7 @@
 # Stable Diffusion: High-Resolution Image Synthesis Using Latent Diffusion Models
 
 ![image](https://github.com/user-attachments/assets/0b5b7160-5a08-4f56-aea1-a70312b44acd)
+
 [Stable Diffusion](https://github.com/CompVis/stable-diffusion?tab=readme-ov-file)
 
 
@@ -49,3 +50,5 @@ Stable Diffusion can be applied across various domains, including:
 - **Dependency on Data Quality:** The model's performance is strongly tied to the quality and diversity of the training dataset. Poor or biased data can lead to unsatisfactory or biased results.
 - **Challenging Fine-tuning:** Fine-tuning the model for specific domains or tasks can be challenging due to the scale and complexity of the diffusion process.
 
+[Github](https://github.com/CompVis/stable-diffusion?tab=readme-ov-file)
+[Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
