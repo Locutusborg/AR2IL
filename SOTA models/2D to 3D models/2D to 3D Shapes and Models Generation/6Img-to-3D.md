@@ -1,5 +1,7 @@
 # Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction
 
+![image](https://github.com/user-attachments/assets/a3c6641d-64d5-4217-911e-17d21517bf13)
+
 ## 1. Introduction
 The "Img-to-3D" model addresses the challenge of reconstructing large-scale outdoor driving scenes into 3D models using a small number of input images. Traditional methods often rely on dense camera setups or vast amounts of input images to generate detailed 3D reconstructions. This paper introduces a method that can achieve comparable 3D reconstruction quality with fewer images, which is particularly useful for applications like autonomous driving, where capturing a large number of images might not always be feasible.
 
