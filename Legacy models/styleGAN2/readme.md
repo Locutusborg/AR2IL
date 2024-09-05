@@ -1,5 +1,8 @@
 # Analyzing and Improving the Image Quality of StyleGAN
 
+![image](https://github.com/user-attachments/assets/70725b3f-5758-4e66-baed-949353ae93e8)
+
+
 StyleGAN is a state-of-the-art generative adversarial network (GAN) designed for high-quality image synthesis. The primary goal of StyleGAN is to generate highly realistic images, and it introduces novel techniques to improve the controllability and quality of the generated images. Here’s a detailed technical explanation of how StyleGAN works and how its image quality can be improved:
 
 ## 1. Architecture Overview
@@ -66,4 +69,5 @@ StyleGAN has been improved in various ways to enhance image quality:
   - **Artistic Image Synthesis:** It can create images with various artistic styles by controlling the latent space.
   - **Data Augmentation:** StyleGAN-generated images are used to augment datasets for training other machine learning models.
 
- [Colab Link](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/stylegan.ipynb)
+[Colab Link](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/generative/ipynb/stylegan.ipynb)
+[Github](https://github.com/NVlabs/stylegan2)
