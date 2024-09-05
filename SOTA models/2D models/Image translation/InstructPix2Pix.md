@@ -49,3 +49,4 @@ InstructPix2Pix can be applied in various domains, including:
 Overall, InstructPix2Pix represents a significant advancement in making image editing more intuitive and accessible, aligning AI-driven modifications with user intent as expressed through natural language.
 
 [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/InstructPix2Pix_using_diffusers.ipynb)
+[Github](https://github.com/timothybrooks/instruct-pix2pix)
