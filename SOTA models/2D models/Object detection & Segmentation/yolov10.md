@@ -68,3 +68,4 @@ As with previous YOLO models, YOLOv10 would be suitable for:
 - **Less Flexibility:** YOLOv10, being highly optimized for object detection, might not be as easily adaptable to other tasks as more generalized models like Vision Transformers.
 
 [Colab](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb)
+[Github](https://github.com/THU-MIG/yolov10)
