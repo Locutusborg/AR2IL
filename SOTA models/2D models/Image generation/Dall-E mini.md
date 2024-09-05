@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/19f7aafe-91f2-473d-9454-650056b5fa5f)
+
+
 ### 1. Introduction
 DALL-E Mini, now known as **Craiyon**, is a neural network that generates images from textual descriptions. It was created as a lightweight alternative to OpenAI's DALL-E, aiming to bring the power of text-to-image generation to a broader audience. The model quickly became popular on the internet for creating a wide range of images based on user inputs, even though it is not as powerful or as refined as the original DALL-E.
 
@@ -45,3 +48,4 @@ DALL-E Mini has been used in various creative and practical applications, includ
 Overall, DALL-E Mini (Craiyon) is a fun and accessible tool for generating images from text, offering a glimpse into the capabilities of more advanced models like DALL-E while being more approachable and user-friendly.
 
 [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+[Github](https://github.com/borisdayma/dalle-mini)
