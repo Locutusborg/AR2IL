@@ -1,5 +1,7 @@
 # CycleGAN Turbo
 
+![image](https://github.com/user-attachments/assets/28aa9140-99e4-4837-b08d-b76622d1b5d4)
+
 ## 1. Introduction
 
 CycleGAN is a well-known framework for unpaired image-to-image translation, where the goal is to learn mappings between two image domains without requiring paired examples. It uses cycle consistency loss to ensure that the translation preserves essential content from the original image.
