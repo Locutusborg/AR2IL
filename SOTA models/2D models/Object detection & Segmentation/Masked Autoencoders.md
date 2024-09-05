@@ -1,5 +1,7 @@
 # Masked Autoencoders (MAE): Overview
 
+![image](https://github.com/user-attachments/assets/d513e92f-eaea-4e78-a056-8b56db01f1e9)
+
 ## 1. Introduction
 
 Masked Autoencoders (MAE) represent a novel approach to self-supervised learning, particularly in the context of computer vision. Inspired by masked language modeling in NLP, MAE aims to reconstruct the missing or masked portions of an input image. This training process forces the model to learn meaningful representations of the data, making it highly effective for downstream tasks such as image classification, object detection, and segmentation without requiring large amounts of labeled data.
@@ -95,3 +97,4 @@ Masked Autoencoders have a wide range of applications, particularly in areas whe
   - The latent space learned by the encoder can be difficult to interpret, making it harder to understand what the model is focusing on.
 
 [Colab](https://colab.research.google.com/github/facebookresearch/mae/blob/main/demo/mae_visualize.ipynb)
+[Github](https://github.com/facebookresearch/mae)
