@@ -73,3 +73,4 @@ ConvNeXt is highly versatile and can be applied to various computer vision tasks
 - **Training Complexity:** Although simpler than ViTs, ConvNeXt can still require careful tuning of hyperparameters and architectural choices to achieve optimal performance.
 
 [Colab](https://colab.research.google.com/drive/1Dv7vxyKhcca8phoRshVjZUoCy3-o_qLL)
+[Github](https://github.com/facebookresearch/ConvNeXt)
