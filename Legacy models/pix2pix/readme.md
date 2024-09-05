@@ -1,5 +1,8 @@
 Pix2pix is a type of generative adversarial network (GAN) designed for image-to-image translation tasks. The primary goal of pix2pix is to learn a mapping from an input image to an output image, and it can be used for various tasks such as image colorization, edge-to-photo translation, and more. Here’s a detailed technical explanation of how pix2pix works:
 
+![image](https://github.com/user-attachments/assets/f0e574bb-7195-4a06-b304-6b1c493fe6b3)
+
+
 ## 1. Architecture Overview
 
 Pix2pix consists of two main components:
@@ -65,4 +68,5 @@ Pix2pix can be used for various image-to-image translation tasks, such as:
 - Semantic segmentation to scene translation
 
 [Paper link](https://arxiv.org/pdf/1611.07004)
-
+[Github](https://github.com/phillipi/pix2pix)
+[Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb)
