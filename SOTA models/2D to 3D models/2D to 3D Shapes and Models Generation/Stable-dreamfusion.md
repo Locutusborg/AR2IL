@@ -45,3 +45,4 @@ Stable-DreamFusion has a wide range of applications in areas such as:
 - **Limited by Text Description Quality**: The model's output is constrained by the specificity and quality of the input text; vague descriptions may lead to less accurate 3D models.
 
 [Colab](https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF?usp=sharing)
+[Github](https://github.com/ashawkey/stable-dreamfusion)
