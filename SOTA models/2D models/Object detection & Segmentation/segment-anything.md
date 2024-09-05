@@ -1,5 +1,7 @@
 # Segment Anything: Overview
 
+![image](https://github.com/user-attachments/assets/363fb02d-08d5-4516-af50-2cb6e421d92a)
+
 ## 1. Introduction
 
 "Segment Anything" is a revolutionary approach in the field of image segmentation, designed to handle any segmentation task with minimal human intervention. The framework is built to be adaptable, efficient, and capable of producing high-quality segmentation masks across diverse image domains. It is especially useful in situations where the exact nature of the segmentation task might not be known beforehand or where the model needs to be adaptable to new types of images without retraining.
@@ -67,3 +69,4 @@ The process of using "Segment Anything" typically involves:
 - **Generalization:** While designed to be general-purpose, the model might still struggle with extremely niche or highly complex segmentation tasks.
 
 [Colab](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
+[Github](https://github.com/facebookresearch/segment-anything)
