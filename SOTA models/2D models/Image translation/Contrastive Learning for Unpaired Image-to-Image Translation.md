@@ -1,6 +1,9 @@
 
 # Contrastive Learning for Unpaired Image-to-Image Translation
 
+![image](https://github.com/user-attachments/assets/a1f6c8a1-f244-4ab5-809f-0fcd955e615c)
+
+
 ## 1. Introduction
 
 Image-to-image translation is a task where an image from one domain is transformed into a corresponding image in another domain. Traditional methods like CycleGAN often rely on cycle consistency, where the translated image is brought back to its original domain to enforce a form of self-supervision. However, these methods can be computationally intensive and may suffer from issues like mode collapse.
@@ -67,3 +70,4 @@ CUT can be applied to a wide range of image-to-image translation tasks, includin
 - **Application Specificity:** While CUT excels in tasks where local details are crucial, it may not perform as well in tasks that require a strong global understanding of the image.
 
 [Colab](https://colab.research.google.com/github/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/CUT_train_Drive.ipynb)
+[Github](https://github.com/taesungp/contrastive-unpaired-translation)
