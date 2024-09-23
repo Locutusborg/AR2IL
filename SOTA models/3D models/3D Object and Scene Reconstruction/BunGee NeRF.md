@@ -1,5 +1,7 @@
 # BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering
 
+![image](https://github.com/user-attachments/assets/0c6b2dfd-f72e-44f3-b245-5847d7e2d943)
+
 ## 1. Introduction
 "BungeeNeRF" is a novel approach designed to address the challenges of rendering scenes that span a wide range of scales, from extremely large environments to fine-grained details. Traditional Neural Radiance Field (NeRF) models struggle with scenes that involve significant variations in scale, leading to inefficiencies in both training and rendering. BungeeNeRF introduces a progressive multi-scale approach that allows for efficient scene representation and rendering at multiple levels of detail, making it suitable for complex, large-scale environments.
 
