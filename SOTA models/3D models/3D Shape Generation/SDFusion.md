@@ -1,5 +1,7 @@
 # SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation
 
+![image](https://github.com/user-attachments/assets/9f25a0c6-57ad-4b61-a282-52d64022fbdd)
+
 ## 1. Introduction
 **SDFusion** is a novel framework that tackles the challenges of 3D shape completion, reconstruction, and generation using a multimodal approach. The model leverages both Signed Distance Functions (SDFs) and other modalities such as images or point clouds to generate high-quality 3D shapes. The goal is to produce accurate and complete 3D representations from partial or noisy input data.
 
