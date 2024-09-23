@@ -1,5 +1,7 @@
 # SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields
 
+![image](https://github.com/user-attachments/assets/dd7fdf9f-4e37-4a2e-bc5a-984384e021c2)
+
 ## 1. Introduction
 **SceneRF** introduces a novel framework for monocular 3D scene reconstruction using radiance fields, trained in a self-supervised manner. Traditional 3D scene reconstruction methods often rely on multi-view stereo or depth sensors, which are challenging to acquire in real-world scenarios. SceneRF leverages **radiance fields** to enable 3D scene reconstruction from a single image, without requiring multi-view consistency. This approach is especially useful for applications where only monocular images are available.
 
