@@ -1,5 +1,7 @@
 # DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation
 
+![image](https://github.com/user-attachments/assets/a78c334c-e6fe-4c0c-a63c-a8127393f791)
+
 ### 1. Introduction
 
 "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation" presents a novel approach for generating 3D shapes using Diffusion Transformers (DiT). The paper introduces a diffusion-based model that can produce high-quality 3D shapes from scratch, advancing the capabilities of generative models in 3D computer vision. The primary motivation is to leverage the success of diffusion models in 2D image generation and extend it to 3D shape generation, offering a new paradigm for synthesizing complex 3D geometries.
