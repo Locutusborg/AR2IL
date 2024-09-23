@@ -1,5 +1,7 @@
 # SemCity: Semantic Scene Generation with Triplane Diffusion
 
+![image](https://github.com/user-attachments/assets/b0ede52c-321a-42ca-a080-11f56efbe334)
+
 ## 1. Introduction
 The "SemCity: Semantic Scene Generation with Triplane Diffusion" paper presents a novel approach for generating high-quality, semantically-rich urban scenes. The method leverages a triplane diffusion model that integrates both semantic and geometric information, allowing for the creation of realistic and detailed 3D urban environments. This approach is particularly useful for applications in urban planning, virtual reality, and autonomous driving simulations.
 
