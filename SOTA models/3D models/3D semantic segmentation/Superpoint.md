@@ -1,5 +1,7 @@
 # Superpoint Transformer
 
+![image](https://github.com/user-attachments/assets/86183224-26f6-4cf0-b893-d04e828bed56)
+
 ## 1. Introduction
 The "Superpoint Transformer" paper introduces a novel approach for 3D point cloud processing by leveraging the strengths of superpoints and transformers. The method is designed to enhance the understanding and segmentation of complex 3D scenes, providing a robust solution for tasks like object detection, scene segmentation, and classification.
 
