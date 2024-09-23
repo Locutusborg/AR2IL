@@ -1,5 +1,7 @@
 # LayoutNet v2: A Hybrid Model for Indoor Layout Estimation
 
+![image](https://github.com/user-attachments/assets/55180739-57a6-465f-a33e-6355c66fde50)
+
 ## 1. Introduction
 "LayoutNet v2" builds upon the original LayoutNet, proposing an improved model for estimating the 3D layout of indoor environments from a single panoramic image. The paper addresses challenges in accurately predicting complex room geometries, particularly in non-cuboid-shaped rooms. By integrating both geometric and deep learning-based approaches, LayoutNet v2 aims to achieve higher accuracy and robustness in indoor layout estimation.
 
