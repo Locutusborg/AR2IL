@@ -1,5 +1,7 @@
 # DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
 
+![image](https://github.com/user-attachments/assets/67778a27-8a97-487d-8402-88b10873d45e)
+
 ## 1. Introduction
 DeepSDF is a deep learning-based approach for 3D shape representation using Continuous Signed Distance Functions (SDFs). SDFs represent the shape of an object by assigning a distance value to each point in space, where the sign of the distance indicates whether the point is inside or outside the object. DeepSDF learns to represent this function in a continuous manner, enabling the generation of high-quality 3D shapes from incomplete or noisy data. This method is highly effective for tasks such as shape reconstruction, interpolation, and generation.
 
